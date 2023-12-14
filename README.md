@@ -1,0 +1,1 @@
+# simple-ecommerce-manager-ui-nextjs-ts
